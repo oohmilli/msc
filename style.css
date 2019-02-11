@@ -48,12 +48,16 @@
 	background: #a2ca28;
 }
 
-.advantage-block{
+.advantages{
 	display: flex;
 	list-style: none;
 	width: 1865px;
 	justify-content: space-between;
 	margin: 0px 20px 0px 0px;
+}
+
+.advantage-block{
+	margin: 20px 100px 0px 100px;
 }
 
 .advantage{
@@ -72,3 +76,55 @@
 	text-decoration: none;
 }
 
+.inf1{
+	background: #ffffff;
+	margin: 50px 0px 0px 140px;
+	width: 400px;
+	height: 400px;
+	text-align: center;
+}
+
+.inf2{
+	background: #ffffff;
+	margin: 50px 140px 0px 1400px;
+	width: 400px;
+	height: 400px;
+	text-align: center;
+}
+
+.h3-text{
+	color: #fd634e;
+	font-size: 14px;
+	text-transform: uppercase;
+	padding: 80px 0px 0px 0px;
+}
+
+.h2-text{
+	color: #a2ca28;
+	font-size: 35px;
+	text-transform: uppercase;
+	margin: 10px 0px 10px 0px;
+}
+
+.icon-inf{
+	margin: 0px 0px 10px 0px;
+}
+
+.p-text{
+	color: #656e74;
+	font-size: 14px;
+	width: 260px;
+	margin: 0px 65px 10px 65px;
+}
+
+.link-inf{
+	color: #a2ca28;
+	font-size: 14px;
+}
+
+.image-info{
+	background-image: url('images/img1.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: flex;
+}
