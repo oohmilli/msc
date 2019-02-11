@@ -48,6 +48,14 @@
 	background: #a2ca28;
 }
 
+.advantage-block{
+	display: flex;
+	list-style: none;
+	width: 1865px;
+	justify-content: space-between;
+	margin: 0px 20px 0px 0px;
+}
+
 .advantage{
 	color: #ffffff;
 	font-size: 24px;
@@ -56,6 +64,7 @@
 .text-advantage{
 	color: #ffffff;
 	font-size: 14px;
+	width: 235px;
 }
 
 .advantage-link{
@@ -63,9 +72,3 @@
 	text-decoration: none;
 }
 
-.advantage-block{
-	display: flex;
-	list-style: none;
-	width: 1600px;
-	justify-content: space-between;
-}
