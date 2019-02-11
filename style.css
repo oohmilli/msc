@@ -47,3 +47,25 @@
 .main-page{
 	background: #a2ca28;
 }
+
+.advantage{
+	color: #ffffff;
+	font-size: 24px;
+}
+
+.text-advantage{
+	color: #ffffff;
+	font-size: 14px;
+}
+
+.advantage-link{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.advantage-block{
+	display: flex;
+	list-style: none;
+	width: 1600px;
+	justify-content: space-between;
+}
