@@ -1,0 +1,131 @@
+.header{
+	display: flex;
+	justify-content: space-between;
+	padding: 30px 20px 30px 20px;
+}
+
+.background-image{
+	background-image: url('images/background.jpg');
+	height: 900px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+.menu{
+	display: flex;
+	width: 500px;
+	list-style: none;
+	justify-content: space-between;
+}
+
+.menu-item{
+	color: #ffffff;
+	font-size: 13px;
+	text-transform: uppercase;
+}
+
+.menu-link{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.title{
+	color: #ffffff;
+	font-size: 40px;
+	text-transform: uppercase;
+	margin: 500px 0 0 30px;
+}
+
+.subtitle{
+	color: #ffffff;
+	font-size: 15px;
+	text-transform: uppercase;
+	margin: 5px 0px 0px 30px;
+}
+
+.main-page{
+	background: #a2ca28;
+}
+
+.advantages{
+	display: flex;
+	list-style: none;
+	width: 1865px;
+	justify-content: space-between;
+	margin: 0px 20px 0px 0px;
+}
+
+.advantage-block{
+	margin: 20px 100px 0px 100px;
+}
+
+.advantage{
+	color: #ffffff;
+	font-size: 24px;
+}
+
+.text-advantage{
+	color: #ffffff;
+	font-size: 14px;
+	width: 235px;
+}
+
+.advantage-link{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.inf1{
+	background: #ffffff;
+	margin: 50px 0px 0px 140px;
+	width: 400px;
+	height: 400px;
+	text-align: center;
+}
+
+.inf2{
+	background: #ffffff;
+	margin: 0px 0px 0px 935px;
+	width: 400px;
+	height: 400px;
+	text-align: center;
+}
+
+.h3-text{
+	color: #fd634e;
+	font-size: 14px;
+	text-transform: uppercase;
+	padding: 80px 0px 0px 0px;
+}
+
+.h2-text{
+	color: #a2ca28;
+	font-size: 35px;
+	text-transform: uppercase;
+	margin: 10px 0px 10px 0px;
+}
+
+.icon-inf{
+	margin: 0px 0px 10px 0px;
+}
+
+.p-text{
+	color: #656e74;
+	font-size: 14px;
+	width: 260px;
+	margin: 0px 65px 10px 65px;
+}
+
+.link-inf{
+	color: #a2ca28;
+	font-size: 14px;
+}
+
+.img1{
+	margin: 0px 0px 0px 540px;
+}
+
+.img2{
+	margin: 0px 0px 0px 140px;
+}
