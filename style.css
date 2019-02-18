@@ -86,7 +86,7 @@
 
 .inf2{
 	background: #ffffff;
-	margin: 0px 0px 0px 140px;
+	margin: 0px 0px 0px 935px;
 	width: 400px;
 	height: 400px;
 	text-align: center;
@@ -120,4 +120,12 @@
 .link-inf{
 	color: #a2ca28;
 	font-size: 14px;
+}
+
+.img1{
+	margin: 0px 0px 0px 540px;
+}
+
+.img2{
+	margin: 0px 0px 0px 140px;
 }
